@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Eva';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Eva'), url('EVA_____.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Eva';
+	font-weight: 200;
+	color: #780206;
+}
